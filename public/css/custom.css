@@ -1,0 +1,44 @@
+.bg-notice-success {
+    background-color: #1e90ff;
+}
+
+.bg-notice-fail {
+    background-color: red;
+}
+
+.icon-topbar:focus {
+    background-color: rgb(59, 59, 59);
+    color: rgb(58, 58, 58);
+}
+
+.transition-custom {
+    transition: all 0.15s ease 0s;
+}
+
+.table-designer {
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.bg-register-2 {
+    background-image: url(/img/register_bg_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.min-width-2 {
+    min-width: 12rem;
+}
+
+.display-none {
+    display: none;
+}
+
+.margin-1 {
+    margin: 0px;
+}
+
+.min-width-3 {
+    min-width: 12rem;
+}

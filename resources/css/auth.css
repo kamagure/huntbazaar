@@ -1,0 +1,23 @@
+.auth-bg {
+    background-color: rgba(29, 78, 216, 1);
+}
+
+.auth-bg-img {
+    background-image: url(../../public/img/register_bg_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.auth-wrapper {
+    background: rgba(209, 213, 219, 1);
+}
+
+.auth-wrapper .form-control:focus {
+    border-color: black;
+    box-shadow: none;
+} 
+
+.auth-text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
